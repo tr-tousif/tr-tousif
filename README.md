@@ -8,10 +8,10 @@ I am freelance web developer currently learning PHP & JavaScript. I would like t
 
 I works on web apps projects from simple blog to complex web applications. If you want to hire me then you must note these points that your project is not about...
 
-❌ - Adult related content e.g. Pornography, Dating, Gambling, Alcohol, Drugs.
-❌ - Piracy or unauthorized selling.
-❌ - Scamming, Cheat and Fraud.
-❌ - And all kind of illegal activities under the government law.
+- ❌ Adult related content e.g. Pornography, Dating, Gambling, Alcohol, Drugs.
+- ❌ Piracy or unauthorized selling.
+- ❌ Scamming, Cheat and Fraud.
+- ❌ And all kind of illegal activities under the government law.
 
 If these topics are available in your project then you have to look for someone else.
 
