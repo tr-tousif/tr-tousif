@@ -4,7 +4,7 @@
 
 I am freelance web developer currently learning PHP & JavaScript. I would like to create complex web applications using popular frameworks. Check my repositories for open source projects.
 
-<details><summary>Hire me for your project</summary>
+<details><summary> ## Hire me for your project</summary>
 <p>
 I works on web apps projects from simple blog to complex web applications. If you want to hire me then you must note these points that your project is not about...
 
