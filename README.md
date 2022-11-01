@@ -1,6 +1,8 @@
-### Hi there 👋
+## Hi there
 
 ![](https://komarev.com/ghpvc/?username=tr-tousif)
+
+I am freelance web developer currently learning PHP & JavaScript. I would like to create complex web applications using popular frameworks. Check my repositories for open source projects.
 
 <!--
 **TR-TOUSIF/tr-tousif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
