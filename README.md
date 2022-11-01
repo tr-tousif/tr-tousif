@@ -1,7 +1,7 @@
 ## Hi there
 
 ![](https://komarev.com/ghpvc/?username=tr-tousif)
-
+<!--
 I am freelance web developer currently learning PHP & JavaScript. I would like to create complex web applications using popular frameworks. Check my repositories for open source projects.
 
 ## Hire me for your project
